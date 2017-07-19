@@ -2,7 +2,7 @@
 
 At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
-Aceast program este un manager de biblioteca.
+Aceast program este un manager de biblioteca. *menutemplate.sh* - este punctul de pornire al aplicatiei, si fila care trebuie rulata la pornirea programului. *gitpush.sh* - actualizeaza depozitul de cod de pe GITHUB.
 
 ## Code Example
 

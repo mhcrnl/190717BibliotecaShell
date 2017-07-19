@@ -5,6 +5,6 @@ echo -n "Ce carte cautati: "
 read find
 
 # Afsati inceputul de linie
-echo "Titlul\t; Autorul\t; Editura"
+echo "Titlul    ; Autorul   ; Editura"
 grep -i $find $BOOK
 
