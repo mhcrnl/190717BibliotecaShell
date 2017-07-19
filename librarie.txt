@@ -1,1 +1,2 @@
 Sub semnul riscului ; Paul Erdman ; Rao
+Despre programare ; Vasile Radu ; Tehnica
