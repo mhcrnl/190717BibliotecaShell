@@ -2,6 +2,8 @@
 
 At the top of the file there should be a short introduction and/ or overview that explains **what** the project is. This description should match descriptions added for package managers (Gemspec, package.json, etc.)
 
+Aceast program este un manager de biblioteca.
+
 ## Code Example
 
 Show what the library does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
@@ -13,6 +15,13 @@ A short description of the motivation behind the creation and maintenance of the
 ## Installation
 
 Provide code examples and explanations of how to get the project.
+```
+git clone https://github.com/mhcrnl/190717BibliotecaShell
+# toate filele trebuiesc marcate ca executabile cu:
+chmod 755 file.sh
+./menutemplate.sh
+```
+
 
 ## API Reference
 
